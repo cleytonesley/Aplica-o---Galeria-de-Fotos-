@@ -17,4 +17,4 @@ Uma aplicação web que exibe uma galeria de fotos, permitindo que os usuários 
 ## Como Executar o Projeto
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/cleytonesley/Aplica-o---Galeria-de-Fotos-/tree/main
